@@ -1,5 +1,6 @@
 # Smart-Traffic-Light-System-Project3
 There is no need of carrying heavy bricks as a warning to drivers when crossing the road. With Our Smart Traffic Light System, You can Cross the road like the Rockstar You are and with ease and in safety. 
+![Wiring Diagram](Smart-Traffic-Light-System-Project3-intro.png)
 
 ## Step 1: Gather all the Necessary Components
 * Arduino Uno
@@ -20,12 +21,13 @@ There is no need of carrying heavy bricks as a warning to drivers when crossing 
 * DuckDuckGo (www.duck.ai) (www.duck.ai)
 
 ## Step 2: Connect the Components (use wiring diagrams)
-![Wiring Diagram](arduino-ultrasonic-sensor-led-scemantics.jpg)
+![Wiring Diagram](Smart-Traffic-Light-System-Project3.jpg)
 
 ## Step 3: Write Your Code using Duck.ai
 
+
 ## Step 4: Upload and Run 
 video
-Watch step by step tutorial here :point_down: [![Click to Watch the video](naw_digital-youtube.png)](https://youtu.be/Kb91wtKb6SM)
+Watch step by step tutorial here :point_down: [![Click to Watch the video](Smart-Traffic-Light-System-Project3-youtube.png)](https://youtu.be/Oay7UAwTMbc)
 
 
