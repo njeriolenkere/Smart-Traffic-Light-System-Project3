@@ -24,11 +24,11 @@ There is no need of carrying heavy bricks as a warning to drivers when crossing 
 ![Wiring Diagram](Smart-Traffic-Light-System-Project3.jpg)
 
 ## Step 3: Write Your Code using Duck.ai
-**Click to View or Copy code: ** :point_right: https://github.com/njeriolenkere/Smart-Traffic-Light-System-Project3/blob/main/project3.ino
+* Click to View or Copy code: * :point_right: https://github.com/njeriolenkere/Smart-Traffic-Light-System-Project3/blob/main/project3.ino
 
 
 ## Step 4: Upload and Run 
-video
-Watch step by step tutorial here :point_down: [![Click to Watch the video](Smart-Traffic-Light-System-Project3-youtube.png)](https://youtu.be/Oay7UAwTMbc)
+
+Click to Watch step by step tutorial here :point_down: [![Click to Watch the video](Smart-Traffic-Light-System-Project3-youtube.png)](https://youtu.be/Oay7UAwTMbc)
 
 
