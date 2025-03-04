@@ -17,14 +17,14 @@ There is no need of carrying heavy bricks as a warning to drivers when crossing 
 * Car
 
 ### Software
-* Arduino IDE (download IDE from www.arduino.cc/en/) 
+* Arduino IDE (download IDE from www.arduino.cc/en/software) 
 * DuckDuckGo (www.duck.ai)
 
 ## Step 2: Connect the Components (use wiring diagrams)
 ![Wiring Diagram](Smart-Traffic-Light-System-Project3.jpg)
 
 ## Step 3: Write Your Code using Duck.ai
-https://github.com/njeriolenkere/Smart-Traffic-Light-System-Project3/blob/main/project3.ino
+**Click to View or Copy code: ** :point_right: https://github.com/njeriolenkere/Smart-Traffic-Light-System-Project3/blob/main/project3.ino
 
 
 ## Step 4: Upload and Run 
